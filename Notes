@@ -1,0 +1,4 @@
+Convert notebooks to code ->
+
+#Export on the cell to convert, then use: 
+python notebook2script.py notebook_name.ipynb
